@@ -18,6 +18,7 @@ This is the official repo of the paper [PSCR: Patches Sampling-based Contrastive
 
 
 ### PSCR
+The pipeline of our proposed patches sampling-based contrastive regression framework.
 ![PSCR](https://github.com/jiquan123/PSCR/blob/main/Fig/PSCR.png)
 
 
