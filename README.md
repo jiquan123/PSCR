@@ -18,7 +18,7 @@ This is the official repo of the paper [PSCR: Patches Sampling-based Contrastive
 
 
 ### PSCR
-![PSCR](https://github.com/jiquan123/I2IQA/blob/main/Fig/PSCR.png)
+![PSCR](https://github.com/jiquan123/PSCR/blob/main/Fig/PSCR.png)
 
 
 ### Pre-trained visual backbone
