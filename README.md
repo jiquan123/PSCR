@@ -1,12 +1,12 @@
 # PSCR
 
-This is the official repo of the paper [PSCR: Patches Sampling-based Contrastive Regression for AIGC Image Quality Assessment](http://arxiv.org/abs/2311.15556):
+This is the official repo of the paper： [PSCR: Patches Sampling-based Contrastive Regression for AIGC Image Quality Assessment](https://arxiv.org/abs/2312.05897)
   ```
-@misc{yuan2023pkui2iqa,
-      title={PKU-I2IQA: An Image-to-Image Quality Assessment Database for AI Generated Images}, 
-      author={Jiquan Yuan and Xinyan Cao and Changjin Li and Fanyi Yang and Jinlong Lin and Xixin Cao},
+@misc{yuan2023pscr,
+      title={PSCR: Patches Sampling-based Contrastive Regression for AIGC Image Quality Assessment}, 
+      author={Jiquan Yuan and Xinyan Cao and Linjing Cao and Jinlong Lin and Xixin Cao},
       year={2023},
-      eprint={2311.15556},
+      eprint={2312.05897},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
