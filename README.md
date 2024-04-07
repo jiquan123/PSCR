@@ -49,6 +49,8 @@ Recently, we randomly split the dataset in a 4:1 ratio and conducted experiments
   
 ![result](https://github.com/jiquan123/PSCR/blob/main/Fig/result.png)
 
+The training log of our new experiments is here： [NR-AIGCIQA](https://github.com/jiquan123/PSCR/blob/main/exp/NR-AIGCIQA.log), [PSCR](https://github.com/jiquan123/PSCR/blob/main/exp/PSCR.log)
+
 
 ### Pre-trained visual backbone
 For feature extraction from input images, we selected several backbone
