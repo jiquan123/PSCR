@@ -21,6 +21,32 @@ This is the official repo of the paper： [PSCR: Patches Sampling-based Contrast
 The pipeline of our proposed patches sampling-based contrastive regression framework.
 ![PSCR](https://github.com/jiquan123/PSCR/blob/main/Fig/PSCR.png)
 
+### Dataset Splitting
+In our original paper, dataset splitting methods are as follows:
+(if you want to compare with the results in our original paper, please use the above dataset splitting methods.)
+
+- AGIQA1K and AIGCIQA2023 (training:testing = 3:1)
+
+![Paper_20231K](https://github.com/jiquan123/PSCR/blob/main/Fig/Paper_20231K.png)
+
+- AGIQA3K (training:testing = 4:1)
+
+![Paper_3K](https://github.com/jiquan123/PSCR/blob/main/Fig/Paper_3K.png)
+
+
+
+Recently, we randomly split the dataset in a 4:1 ratio and conducted experiments. The dataset splitting methods and the experimental results are as follows: 
+
+(If you have also used the same dataset splitting method, please compare your results with ours below.)
+
+-  random dataset splitting methods
+  
+![random_partion](https://github.com/jiquan123/PSCR/blob/main/Fig/random_partion.png)
+
+-  results
+  
+![result](https://github.com/jiquan123/PSCR/blob/main/Fig/result.png)
+
 
 ### Pre-trained visual backbone
 For feature extraction from input images, we selected several backbone
