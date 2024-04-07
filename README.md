@@ -25,7 +25,7 @@ The pipeline of our proposed patches sampling-based contrastive regression frame
 ### Dataset Splitting
 In our original paper, dataset splitting methods are as follows:
 
-(if you want to compare with the results in our original paper, please use the above dataset splitting methods.)
+(if you want to compare with the results in our original paper, please use the dataset splitting methods below.)
 
 - AGIQA1K and AIGCIQA2023 (training:testing = 3:1)
 
