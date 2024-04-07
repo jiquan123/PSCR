@@ -19,10 +19,12 @@ This is the official repo of the paper： [PSCR: Patches Sampling-based Contrast
 
 ### PSCR
 The pipeline of our proposed patches sampling-based contrastive regression framework.
+
 ![PSCR](https://github.com/jiquan123/PSCR/blob/main/Fig/PSCR.png)
 
 ### Dataset Splitting
 In our original paper, dataset splitting methods are as follows:
+
 (if you want to compare with the results in our original paper, please use the above dataset splitting methods.)
 
 - AGIQA1K and AIGCIQA2023 (training:testing = 3:1)
